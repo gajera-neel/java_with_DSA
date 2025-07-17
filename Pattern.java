@@ -203,6 +203,7 @@ class Pattern {
                     }
                     System.out.println();
                 }
+
             }
 
         }
