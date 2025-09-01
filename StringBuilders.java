@@ -1,5 +1,5 @@
 
-class StringBuilderss{
+class StringBuilders{
     public static void main(String[] args) {
         StringBuilder sc = new StringBuilder("Hello");
         System.out.println(sc);
